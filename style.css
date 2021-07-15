@@ -1,0 +1,28 @@
+* {
+    box-sizing: border-box;
+}
+
+.formtitle {
+    margin-bottom: 5px;
+}
+
+.line {
+    color: rgb(7, 7, 63);
+    font-weight: bolder;
+    margin-top: 5px;
+    margin-bottom: 20px;
+}
+
+.line1 {
+    color: rgb(7, 7, 63);
+    font-weight: bolder;
+    margin-top: 5px;
+}
+
+.yourbooks {
+    margin-top: 40px;
+}
+.alert-custom{
+    background-color:#6089D5;
+    color:rgb(46, 30, 194);
+  }
