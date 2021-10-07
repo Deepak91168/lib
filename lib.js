@@ -15,6 +15,7 @@ Display.prototype.add = function (book) {
                         <td>${book.author}</td> 
                         <td>${book.publisher}</td>
                         <td>${book.type}</td>
+                        <td>${new Date()}</td>
                     </tr>`;
     tablebody.innerHTML += addbook;
 }
